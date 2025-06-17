@@ -1,0 +1,28 @@
+body{
+    font-family: 'Arial';
+    background-color: lightgray;
+    padding: 30px;
+    color: #333;
+}
+
+.app{
+    max-width: 600px;
+    background-color: #efefef;
+    margin: 0 auto 300px;
+    padding: 20px 30px;
+    border-radius: 12px;
+}
+
+h1{
+    text-align: center;
+
+}
+h2{
+    margin-bottom: 10px;
+}
+input{
+    box-sizing: border-box;
+}
+p{
+    margin: 10px 0;
+}
